@@ -1,4 +1,4 @@
-![Mcu](Marvel.png "main image")
+![Mcu](Marvel.jpg "main image")
 
 Anson
 # Marvel-stuff 
